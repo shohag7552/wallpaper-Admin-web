@@ -1,0 +1,41 @@
+categories : {
+    hollywood:{
+        thumbnail: a nice thumbnail uri,
+        desc: a nice description,
+    }
+    nature:{
+        thumbnail: a nice thumbnail uri,
+        desc: a nice description,
+    }
+    quotes:{
+        thumbnail: a nice thumbnail uri,
+        desc: a nice description,
+    }
+}
+
+images : {
+    hollywood:{
+        images1:{
+            uri: imagesuri,
+            title: a nice title,
+            description: short description
+        }
+        images2:{
+            uri: imagesuri,
+            title: a nice title,
+            description: short description
+        }
+    }
+    nature:{
+        images1:{
+            uri: imagesuri,
+            title: a nice title,
+            description: short description
+        }
+        images2:{
+            uri: imagesuri,
+            title: a nice title,
+            description: short description
+        }
+    }
+}
